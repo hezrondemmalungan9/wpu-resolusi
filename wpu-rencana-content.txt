@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 -Javascript
+*ES6
+*Frameworks Javasript
 -PHP Frameworks
 -Interview
 -Vlogs
